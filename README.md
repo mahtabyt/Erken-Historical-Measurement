@@ -3,7 +3,7 @@ This repository has the historical meteorological variables, water temperature a
 
 # List of data files and descriptions: 
 
-1. df_deepwater_obs_1978_2023.csv (The historical records of deepwater (deeper than 13.5 m from surface) oxygen profile in 1978-2023)
+1. df_deepwaterDO_obs_1978_2023.csv (The historical records of deepwater (deeper than 13.5 m from surface) dissolved oxygen (DO) profile in 1978-2023)
 2. daily_deepwater_DO_obs_1978_2023.xlsx (Daily volume-weighted average of deepwater oxygen in 1978-2023)
 3. Erken_DailyPrec_1960-2020.dat (daily precipitation in 1960-2020)
 4. Erken_InitialTempProfile_1977.dat (Initial water temperature profile records in 1977 for GOTM, General Ocean Turbulence Model)
